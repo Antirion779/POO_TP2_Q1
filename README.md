@@ -73,7 +73,5 @@ Pour quitter l'application, fermez la fenêtre de simulation. Tous les threads s
 
 ## Aide et Support
 
-Pour toute question ou assistance, veuillez contacter `email@example.com`.
+Pour toute question ou assistance, veuillez contacter `Antoine.etu@uquac.ca`.
 ```
-
-Ce README est prêt à être utilisé pour votre projet et offre une explication complète de l'installation, de l'utilisation et de la structure du code.
