@@ -74,4 +74,4 @@ Pour quitter l'application, fermez la fenêtre de simulation. Tous les threads s
 
 Pour toute question ou assistance, veuillez contacter `Antoine.etu@uquac.ca`.
 
-[LIENS VERS LE DOCUMENT COMPLET] (https://docs.google.com/document/d/1Ops5rkYOspdqxg_SeleoJiD2V7fNzVxguQWs-uVDdXU/edit?usp=sharing)
+[LIENS VERS LE DOCUMENT COMPLET](https://docs.google.com/document/d/1Ops5rkYOspdqxg_SeleoJiD2V7fNzVxguQWs-uVDdXU/edit?usp=sharing)
