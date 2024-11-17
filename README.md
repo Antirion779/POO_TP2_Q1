@@ -1,4 +1,3 @@
-```markdown
 # Simulation de Pigeons
 
 Cette application simule le comportement de pigeons dans un environnement 2D où ils cherchent de la nourriture, dorment ou se dispersent en cas de panique. Chaque pigeon est contrôlé par un thread indépendant, permettant un comportement asynchrone et réaliste. Cette simulation utilise la bibliothèque **SFML** pour l'affichage graphique.
@@ -74,4 +73,5 @@ Pour quitter l'application, fermez la fenêtre de simulation. Tous les threads s
 ## Aide et Support
 
 Pour toute question ou assistance, veuillez contacter `Antoine.etu@uquac.ca`.
-```
+
+[LIENS VERS LE DOCUMENT COMPLET] (https://docs.google.com/document/d/1Ops5rkYOspdqxg_SeleoJiD2V7fNzVxguQWs-uVDdXU/edit?usp=sharing)
